@@ -1,0 +1,3 @@
+https://ptrckprry.com/course/ssd/data/positive-words.txt
+
+https://ptrckprry.com/course/ssd/data/negative-words.txt

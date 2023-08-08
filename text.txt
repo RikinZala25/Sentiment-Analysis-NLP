@@ -1,0 +1,45 @@
+"I love this movie! It's fantastic."
+"Today is a beautiful day."
+"The food at the restaurant was average."
+"I feel indifferent about this book."
+"The customer service was terrible. I had a bad experience."
+"The weather is unpredictable lately."
+"I'm thrilled with the results."
+"This song brings me joy every time I listen to it."
+"I'm feeling so grateful for all the support."
+"The product exceeded my expectations."
+"I'm disappointed with the service I received."
+"The performance was outstanding. I was blown away."
+"I'm not sure how I feel about the new design."
+"The team did an amazing job on the project."
+"The traffic jam made me frustrated and stressed."
+"I'm completely satisfied with the quality of the product."
+"The company's decision was questionable."
+"The atmosphere at the party was lively and enjoyable."
+"I'm quite impressed with the level of professionalism."
+"The noise pollution in the neighborhood is unbearable."
+
+
+ASPECTS:
+
+The picture quality of the TV is excellent, but the sound is disappointing.
+The battery life of the phone is impressive
+This summer intern developer team was best out of all time.
+The coffee shop has a cozy atmosphere, but the prices are too high.
+
+Miscellaneous
+
+The sound system in the car is amazing, but the fuel efficiency is poor.
+
+good, poor
+awesome, bad
+good, worst
+awesome, worst
+
+Sarcasm
+
+Sure, I'd love to wait in a long queue. It's my favorite pastime.
+
+Ironic
+
+I just adore it when my alarm clock goes off early in the morning.
